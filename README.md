@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/bej_amit" target="blank"><img src="https://img.shields.io/twitter/follow/bej_amit?logo=twitter&style=for-the-badge" alt="bej_amit" /></a> </p>
 
-- 🌱 I’m currently learning **UI-UX Implementation**
+- 🌱 I’m currently learning **UI-UX Design**
 
 - 💬 Ask me about **React and Adobe Creative Suite**
 
